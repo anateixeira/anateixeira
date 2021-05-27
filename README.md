@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anateixeira
+- 👋 Hi, I’m Carol Veloso 
 - 👀 I’m interested in development android
 - 🌱 I’m currently learning kotlin
 
