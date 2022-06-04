@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Carol Veloso 
-- 👀 I’m interested in development android
+- 👀 I’m interested in android development
 - 🌱 I’m currently learning kotlin
 
 
